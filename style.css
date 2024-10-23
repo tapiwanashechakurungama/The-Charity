@@ -2001,6 +2001,7 @@ ul.tabs-nav .tab-nav.active {
     font-weight: 500;
     color: #929191;
     background: url("images/foot-bg.jpg") no-repeat center;
+    background-attachment: fixed;
     background-size: cover;
     z-index: 99;
 }
